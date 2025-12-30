@@ -1,4 +1,4 @@
-# MUMS - Mini User Management System
+# 🧑‍💻MUMS - Mini IT User Management System 
 
 A comprehensive full-stack web application for managing user accounts with role-based access control (RBAC), designed for IT companies with different user types and administrative controls.
 
@@ -794,11 +794,11 @@ The test suite includes:
 
 ## 📝 License
 
-This project is created for educational and demonstration purposes.
+This project is created for educational and demonstration purposes and is under MIT License.
 
 ## 👥 Author
 
-Developed as a full-stack user management system demonstration.
+Developed as a full-stack mini user management system for basic demonstrations.
 
 ## 🤝 Contributing
 
