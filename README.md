@@ -201,7 +201,7 @@ PORT=5000
 # MongoDB Connection
 MONGO_URI=mongodb://localhost:27017/mums
 # For MongoDB Atlas, use:
-# MONGO_URI=mongodb+srv://username:password@cluster.mongodb.net/mums?retryWrites=true&w=majority
+# MONGO_URI=mongodb+srv://username:password@cluster.mongodb.net/
 
 # JWT Configuration
 JWT_SECRET=your_super_secret_jwt_key_here_min_32_characters
